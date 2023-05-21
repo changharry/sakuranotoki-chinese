@@ -156,7 +156,7 @@
   },
   {
     "name": "直哉",
-    "message": "「……」(无法翻译，因为这是一个省略号，没有具体的意思)"
+    "message": "「……」"
   },
   {
     "name": "直哉",
@@ -730,7 +730,7 @@
   },
   {
     "name": "直哉",
-    "message": "「！？」->「！？」(The text is already in Japanese and does not need to be translated into Simplified Chinese.)"
+    "message": "「！？」"
   },
   {
     "message": "――嗯噗嗯噗，咕噜咕噜……。"

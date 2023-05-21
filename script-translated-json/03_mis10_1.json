@@ -89,7 +89,7 @@
   },
   {
     "name": "直哉",
-    "message": "「っッッ！！」->「っ！！」"
+    "message": "「っッッ！！」"
   },
   {
     "name": "直哉",
@@ -440,7 +440,7 @@
   },
   {
     "name": "直哉",
-    "message": "「！？」->「！？」(The text is already in Japanese and does not need to be translated into Simplified Chinese.)"
+    "message": "「！？」"
   },
   {
     "message": "感觉很奇怪。"
@@ -515,7 +515,7 @@
   },
   {
     "name": "直哉",
-    "message": "「……」(无法翻译，因为这是一个省略号，没有具体的意思)"
+    "message": "「……」"
   },
   {
     "message": "有点儿，完全没有得到认同。"

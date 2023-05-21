@@ -116,7 +116,7 @@
   },
   {
     "name": "直哉",
-    "message": "「……」(无法翻译，因为这是一个省略号，没有具体的意思)"
+    "message": "「……」"
   },
   {
     "name": "藍",
@@ -139,7 +139,7 @@
   },
   {
     "name": "直哉",
-    "message": "「……」(无法翻译，因为这是一个省略号，没有具体的意思)"
+    "message": "「……」"
   },
   {
     "message": "抵抗没有。"
@@ -176,7 +176,7 @@
   },
   {
     "name": "直哉",
-    "message": "「……」(无法翻译，因为这是一个省略号，没有具体的意思)"
+    "message": "「……」"
   },
   {
     "name": "藍",
@@ -200,7 +200,7 @@
   },
   {
     "name": "直哉",
-    "message": "「……」(无法翻译，因为这是一个省略号，没有具体的意思)"
+    "message": "「……」"
   },
   {
     "name": "藍",
@@ -1296,7 +1296,7 @@
   },
   {
     "name": "藍",
-    "message": "\"……直哉？\" translates to \"……直哉？\" in Simplified Chinese. The text is already in Japanese and cannot be translated into Simplified Chinese."
+    "message": "\"……直哉？\" "
   },
   {
     "name": "直哉",

@@ -20,7 +20,7 @@
   },
   {
     "name": "心鈴",
-    "message": "「……」(无法翻译，因为这是一个省略号，没有具体的意思)"
+    "message": "「……」"
   },
   {
     "message": "将某物藏在裙子下面后——。"
@@ -297,7 +297,7 @@
   },
   {
     "name": "心鈴",
-    "message": "「……」(无法翻译，因为这是一个省略号，没有具体的意思)"
+    "message": "「……」"
   },
   {
     "message": "在我吻了他的小鸡鸡之后，心铃君就停住了。"
@@ -691,7 +691,7 @@
   },
   {
     "name": "直哉",
-    "message": "「っッッーー」->「っッッーー」"
+    "message": "「っッッーー」"
   },
   {
     "name": "心鈴",
@@ -757,7 +757,7 @@
   },
   {
     "name": "心鈴",
-    "message": "「っッッ！！」->「っ！！」"
+    "message": "「っッッ！！」"
   },
   {
     "message": "表情稍微凝固了一下。"
@@ -817,7 +817,7 @@
   },
   {
     "name": "心鈴",
-    "message": "「っっ～～っッッ！！」->「っっ～～っッッ！！」(There is no difference between Japanese and Simplified Chinese characters for this expression)"
+    "message": "「っっ～～っッッ！！」"
   },
   {
     "message": "心铃君用手遮住了脸。"
@@ -1156,11 +1156,11 @@
   },
   {
     "name": "直哉",
-    "message": "「っッッ！！」->「っ！！」"
+    "message": "「っッッ！！」"
   },
   {
     "name": "心鈴",
-    "message": "「っッッ！！」->「っ！！」"
+    "message": "「っッッ！！」"
   },
   {
     "name": "藍",

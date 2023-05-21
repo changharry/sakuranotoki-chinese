@@ -50,7 +50,7 @@
     "message": "我想起了一些模糊的事情，然后开始思考……。"
   },
   {
-    "message": "人不能独自出生并在虚无中成长。 (Rén bù néng dúzì chūshēng bìng zài xūwú zhōng chéngzhǎng.)"
+    "message": "人不能独自出生并在虚无中成长。"
   },
   {
     "message": "无人与之交谈的幼儿，即使得到适当的营养，也无法生存数年。"
@@ -239,7 +239,7 @@
   },
   {
     "name": "心鈴",
-    "message": "「……」(无法翻译，因为这是一个省略号，没有具体的意思)"
+    "message": "「……」"
   },
   {
     "name": "直哉",
@@ -349,7 +349,7 @@
   },
   {
     "name": "直哉",
-    "message": "\"时间？\" -> \"时间？\""
+    "message": " \"时间？\""
   },
   {
     "name": "直哉",
@@ -642,7 +642,7 @@
   },
   {
     "name": "直哉",
-    "message": "\"数日……\" translates to \"数日……\" in Simplified Chinese. This is because the text is written in kanji, which is a Japanese writing system, and does not have a direct translation to Simplified Chinese characters."
+    "message": "\"数日……\""
   },
   {
     "name": "心鈴",
@@ -678,7 +678,7 @@
   },
   {
     "name": "心鈴",
-    "message": "草薙直哉…… -> 草薙直哉……"
+    "message": "草薙直哉……"
   },
   {
     "name": "心鈴",
@@ -852,7 +852,7 @@
   },
   {
     "name": "心鈴",
-    "message": "「っッッ！！」->「咕咚！！」"
+    "message": "「っッッ！！」"
   },
   {
     "message": "心铃君的脸越来越红。"
@@ -1007,7 +1007,7 @@
   },
   {
     "name": "心鈴",
-    "message": "「……」(无法翻译，因为这是一个省略号，没有具体的意思)"
+    "message": "「……」"
   },
   {
     "message": "抱歉，无法翻译没有上下文的单个句子。请提供更多的上下文或完整的句子。"
